@@ -13,4 +13,9 @@
 
 ---
 
+## GitHub 
+* [MissingPluginException(No implementation found for method write on channel plugins.it_nomads.com/flutter_secure_storage)](https://github.com/mogol/flutter_secure_storage/issues/83#issuecomment-1333684871)
+
+---
+
 > And more and more, I intend to add more and more participations here and centralize it all. 🏆
